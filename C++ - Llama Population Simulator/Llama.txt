@@ -1,0 +1,40 @@
+⠀⠀⠀⠀⠀⠀⠀⢀⠀⠀⠀⢠⣤⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⡄⠀⠸⣿⣷⣄⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠈⢿⡿⣧⡄⣿⡈⠻⣦⡀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣷⡈⠻⣿⡇⠀⠘⢿⣆⠀⠀
+⠀⠀⠀⠀⠀⠀⢀⣠⣤⣶⠿⠇⠀⢈⣁⣠⣤⡀⢹⡇⠀
+⠀⠀⠀⠀⣠⣴⠟⠋⠁⣠⣴⣿⠟⠻⣿⣿⣿⣷⣼⡇⠀
+⠀⢀⣤⡾⠛⢁⡀⠐⣿⣿⣿⠃⠀⠀⠘⣿⣿⣿⣿⡇⠀
+⢀⣿⠛⠻⢿⣿⣿⡀⢹⣿⣿⠀⠸⠇⠀⣿⣿⣿⠟⠁⡀
+⣼⡏⠀⢀⣿⣿⣿⣷⠀⢻⣿⣦⣀⣀⣴⡿⠋⢁⣴⣾⣿
+⠛⠛⣻⣿⠿⠿⣿⣿⠀⠀⢹⣿⣿⡿⠋⣠⣴⣿⣿⣿⣿
+⢰⣿⣏⣁⣀⣴⣾⣿⣷⣶⣿⠟⠁⣠⣾⣿⣿⣿⣿⣿⣿
+⠀⠉⠙⠛⠻⠛⢩⣿⠁⠈⠁⣠⣾⣿⣿⣿⣿⣿⣿⠿⠇
+⠀⠀⠀⠀⠀⠀⣾⣃⠀⠀⢠⣿⣿⣿⣿⡿⠛⠉⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠉⠛⠻⢷⣾⠿⠛
+|___|
+(x_x)
+ | |
+ (/////)^
+ ||   ||
+
+
+|___|
+(._.)
+ | |
+ (/////)^
+ ||   ||
+
+|___|
+(>-<)
+ | |
+ (/////)^
+ ||   ||
+
+useful functions:
+
+ageUpdater() - in GameMechanics.h - updates all Llamas age and remove & return dead llamas name from vector.
+
+maleFemaleUpdater() - in GameMechanics.h - add parameter Color for babyUpdater() - finds all non-marvel male and female number that are age two or above.
+
+babyUpdater() - in GameMechanics.h - creates newborn baby and return their names.

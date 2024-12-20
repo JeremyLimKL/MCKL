@@ -1,0 +1,10 @@
+// java Project.
+Bingo Test
+
+Account class - Player 1, Player 2 (inherited from User user1 = new User())
+
+User class - Acount1, Account2 
+
+Board class - stores board
+
+Point class - stores which coordinate user enter
