@@ -1,7 +1,7 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2000- Java 2 Project
 // Date: 9/12/2023
-// RSA Key Length 4096 with Threads. (Contains parts of Zheng Yao's thread code)
+// RSA Key Length 4096 with Threads. (ZY's included)
 import java.io.*;
 import java.math.BigInteger;
 import java.util.Random;
