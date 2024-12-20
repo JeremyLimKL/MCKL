@@ -1,4 +1,4 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2000- Java 2 Project
 // Date: 9/12/2023
 // SelecterRSA class is used to handle RSA4096 & RSA8192.
