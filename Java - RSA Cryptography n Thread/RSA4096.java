@@ -1,4 +1,4 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2000- Java 2 Project
 // Date: 9/12/2023
 // RSA Key Length 4096.
