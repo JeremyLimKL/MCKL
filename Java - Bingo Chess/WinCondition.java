@@ -1,4 +1,4 @@
-
+// JLKL
 // class WinCondition extends from Board to be able to use some of its methods.
 
 public class WinCondition extends Board
