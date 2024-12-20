@@ -1,4 +1,4 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2000- Java 2 Project
 // Date: 9/12/2023
 // Java program to implement Atbash Cipher for Key 2
