@@ -1,4 +1,4 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2010 Course Project
 // Date: 3-005-24
 
