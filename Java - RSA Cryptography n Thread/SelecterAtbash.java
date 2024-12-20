@@ -1,4 +1,4 @@
-// Jeremy Lim Kin Lok
+// JLKL
 // CSC 2000- Java 2 Project
 // Date: 9/12/2023
 // SelecterAtbash.java is the midpoint between "MainFrame.java" (GUI) and "AtbashKey"s.java
