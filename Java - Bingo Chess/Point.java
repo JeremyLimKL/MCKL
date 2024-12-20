@@ -1,4 +1,4 @@
-
+// JLKL
 // class Point stores value of x and y coordinates.
 // set and get methods are use to retrieve and set values of x and y.
 
