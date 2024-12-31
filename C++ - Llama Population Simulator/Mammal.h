@@ -1,5 +1,4 @@
 // JLKL
-// CSC 2010 Course Project
 // Date: 3-005-24
 
 // Mammal.h
