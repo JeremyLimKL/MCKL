@@ -1,2 +1,2 @@
 # MCKL timeline
-Projects completed during my education at MCKL
+Class & Personal Projects completed during my education at MCKL
